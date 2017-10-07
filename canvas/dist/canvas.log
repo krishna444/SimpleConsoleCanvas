@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-10-07T15:59:01</date>
+  <millis>1507384741592</millis>
+  <sequence>0</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>##############################</message>
+</record>
+<record>
+  <date>2017-10-07T15:59:01</date>
+  <millis>1507384741695</millis>
+  <sequence>1</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Canvas has been initialised</message>
+</record>
+<record>
+  <date>2017-10-07T15:59:26</date>
+  <millis>1507384766408</millis>
+  <sequence>2</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>create</method>
+  <thread>1</thread>
+  <message>Creating canvas of width:16 and height:17</message>
+</record>
+<record>
+  <date>2017-10-07T15:59:26</date>
+  <millis>1507384766409</millis>
+  <sequence>3</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>create</method>
+  <thread>1</thread>
+  <message>DONE: Canvas has been created</message>
+</record>
+<record>
+  <date>2017-10-07T15:59:42</date>
+  <millis>1507384782001</millis>
+  <sequence>4</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>Creating line from (12,12) to (3,2)</message>
+</record>
+<record>
+  <date>2017-10-07T15:59:42</date>
+  <millis>1507384782001</millis>
+  <sequence>5</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>DONE: creating line</message>
+</record>
+<record>
+  <date>2017-10-07T16:01:43</date>
+  <millis>1507384903081</millis>
+  <sequence>6</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>bucketFillQ</method>
+  <thread>1</thread>
+  <message>Starting filling bucket from (3,5) with color:Q</message>
+</record>
+<record>
+  <date>2017-10-07T16:01:43</date>
+  <millis>1507384903094</millis>
+  <sequence>7</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>bucketFillQ</method>
+  <thread>1</thread>
+  <message>DONE: filling bucket</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:05</date>
+  <millis>1507384925239</millis>
+  <sequence>8</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createRectangle</method>
+  <thread>1</thread>
+  <message>Create a rectable having top-left (2,2) and bottom-right (4,7)</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:05</date>
+  <millis>1507384925239</millis>
+  <sequence>9</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>Creating line from (2,2) to (4,2)</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:05</date>
+  <millis>1507384925239</millis>
+  <sequence>10</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>Creating Horizontal Line</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:05</date>
+  <millis>1507384925239</millis>
+  <sequence>11</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>DONE: creating line</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:05</date>
+  <millis>1507384925239</millis>
+  <sequence>12</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>Creating line from (4,2) to (4,7)</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:05</date>
+  <millis>1507384925240</millis>
+  <sequence>13</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>Creating Vertical Line</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:05</date>
+  <millis>1507384925240</millis>
+  <sequence>14</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>DONE: creating line</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:05</date>
+  <millis>1507384925240</millis>
+  <sequence>15</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>Creating line from (4,7) to (2,7)</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:05</date>
+  <millis>1507384925240</millis>
+  <sequence>16</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>Creating Horizontal Line</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:05</date>
+  <millis>1507384925240</millis>
+  <sequence>17</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>DONE: creating line</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:05</date>
+  <millis>1507384925240</millis>
+  <sequence>18</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>Creating line from (2,7) to (2,2)</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:05</date>
+  <millis>1507384925240</millis>
+  <sequence>19</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>Creating Vertical Line</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:05</date>
+  <millis>1507384925240</millis>
+  <sequence>20</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>DONE: creating line</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:05</date>
+  <millis>1507384925240</millis>
+  <sequence>21</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createRectangle</method>
+  <thread>1</thread>
+  <message>DONE: rectangle creation</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:30</date>
+  <millis>1507384950599</millis>
+  <sequence>22</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>Creating line from (1,5) to (6,5)</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:30</date>
+  <millis>1507384950599</millis>
+  <sequence>23</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>Creating Horizontal Line</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:30</date>
+  <millis>1507384950599</millis>
+  <sequence>24</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>DONE: creating line</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:42</date>
+  <millis>1507384962614</millis>
+  <sequence>25</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>create</method>
+  <thread>1</thread>
+  <message>Creating canvas of width:42 and height:42</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:42</date>
+  <millis>1507384962614</millis>
+  <sequence>26</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>create</method>
+  <thread>1</thread>
+  <message>DONE: Canvas has been created</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:52</date>
+  <millis>1507384972901</millis>
+  <sequence>27</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>Creating line from (2,13) to (10,13)</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:52</date>
+  <millis>1507384972902</millis>
+  <sequence>28</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>Creating Horizontal Line</message>
+</record>
+<record>
+  <date>2017-10-07T16:02:52</date>
+  <millis>1507384972902</millis>
+  <sequence>29</sequence>
+  <logger>drawing.Canvas</logger>
+  <level>INFO</level>
+  <class>drawing.Canvas</class>
+  <method>createLine</method>
+  <thread>1</thread>
+  <message>DONE: creating line</message>
+</record>
